@@ -1,0 +1,45 @@
+.gradient-background{
+    background: rgb(241,223,6);
+background: linear-gradient(90deg, rgba(241,223,6,1) 2%, rgba(234,220,10,1) 33%, rgba(185,199,36,1) 59%, rgba(159,171,32,1) 99%);
+    animation: gradient-animation 18s ease infinite;
+}
+
+.text-blue{
+    color: #3559E0;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.align{
+    text-align: center;
+}
+.brand-icon{
+    height: 30px;
+  }
+.brand-icon1{
+    height: 40px;
+}
+.brand-icon2{
+    height: 45px;
+}
+
+.border{
+    border-radius: 35%;
+}
+.text-yellow{
+    color: yellow !important;
+    text-shadow: 0 2px 2px  black; 
+}
+
+.text-white{
+    color: white !important;
+    font-weight: bold;
+}
+.text-red{
+    color: red !important;
+    text-shadow: 0 2px 2px  black; 
+}
+
+.rev-bg{
+    background-color: aquamarine;
+}
